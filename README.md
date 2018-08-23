@@ -1,2 +1,0 @@
-# softmaxcifar10
-此作业通过使用softmax分类器优化分类cifar10数据集
